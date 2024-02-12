@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giovana Kinocita</h1>
 <h3 align="center">A very curious data scientist</h3>
 
-- 🌱 I’m currently learning **SQL, Python, Power BI, AWS**
+- 🌱 I’m currently learning **SQL, Python, Power BI**
 
 - 📫 How to reach me **contato.giovanakr@gmail.com**
 
